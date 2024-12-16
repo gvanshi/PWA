@@ -17,6 +17,8 @@ A web application built with PWA principles, offering offline support and enhanc
 1. Install dependencies:
    ```bash
    npm install
+   
 2. Start the development server:
 npm run dev
+
 3.Test the app at http://localhost:3000 and simulate offline mode.
